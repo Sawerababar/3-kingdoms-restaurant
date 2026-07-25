@@ -67,11 +67,7 @@ export const Header: React.FC<HeaderProps> = ({
             id="brand-logo-link"
           >
             <Logo size="md" variant={isNight ? 'light' : 'dark'} showChinese={true} />
-            <span className={`hidden sm:inline-block text-[10px] font-sans font-bold px-2 py-0.5 rounded ml-1 uppercase tracking-wider ${
-              isNight ? 'bg-red-950/80 text-red-300 border border-red-800/50' : 'bg-red-100 text-red-700 border border-red-200'
-            }`}>
-              Uptown CBD
-            </span>
+
           </a>
 
           {/* Desktop Navigation Links */}
