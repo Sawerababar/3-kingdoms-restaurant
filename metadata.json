@@ -1,0 +1,6 @@
+{
+  "name": "3 Kingdoms Restaurant",
+  "description": "Authentic Sichuan Street Food & Noodle House in Uptown Brisbane. Featuring signature dishes, culinary video reels, interactive menu, online reservations, and direct ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
